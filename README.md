@@ -17,3 +17,5 @@
 	//Start application
 	Import existing Maven project From "\Hexgonal-Example\book-service\book-service" 
 	Right click at com.systex.msg.Application.java and run as javaApplication
+#Contact Info
+	Email:benyang@syspower.com.tw
